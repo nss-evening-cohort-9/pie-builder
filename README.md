@@ -2,7 +2,7 @@
 This application allows you to make a list of all ingredients you plan to put in a pie.  You can then delete ingredients if you decide you don't want them.
 
 ## Screenshots
-![Main View]()
+![Main View](https://raw.githubusercontent.com/nss-evening-cohort-9/pie-builder/master/screenshots/pie_builder.png)
 
 ## Getting Started
 ```
